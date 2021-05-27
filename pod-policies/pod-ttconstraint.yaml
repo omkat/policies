@@ -10,4 +10,4 @@ spec:
       - apiGroups: [""]
         kinds: ["Pod"]
   parameters:
-    registry: "docker.io/"
+    registry: "gcr.io/"
